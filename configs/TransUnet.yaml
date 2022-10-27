@@ -1,0 +1,6 @@
+MODEL:
+  NAME: TransUnet
+  TRANSUNET:
+    vit_name: R50-ViT-B_16
+    n_skip: 3
+    vit_patches_size: 16

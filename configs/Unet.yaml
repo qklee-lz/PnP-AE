@@ -1,0 +1,4 @@
+MODEL:
+  NAME: unet
+  UNET:
+    bilinear: False

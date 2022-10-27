@@ -1,0 +1,6 @@
+MODEL:
+  NAME: unet_plusplus
+  UNET_PLUSPLUS:
+    is_deconv: True
+    is_batchnorm: True
+    is_ds: True
