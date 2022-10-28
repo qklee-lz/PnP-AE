@@ -2,6 +2,8 @@
 The codes for the work "PNP-AE: A PLUG-AND-PLAY MODULE FOR VOLUMETRIC MEDICAL IMAGE
 - ![](./figures/frameworkREV.png)
 
+Result on U-Net
+- ![](./figures/result.png)
 ## 1. Prepare data
 - BTCV
       - The datasets we used are provided by TransUnet's authors. Please go to ["./datasets/README.md"](datasets/README.md) for details, or please send an Email to jienengchen01 AT gmail.com to request the preprocessed data. If you would like to use the preprocessed data, please use it for research purposes and do not redistribute it (following the TransUnet's License).
