@@ -59,3 +59,10 @@ The codes for the work "PnP-AE: A Plug-and-Play Module for Volumetric Medical Im
 - √ SwinUNet
 - √ MissFormer
 - √ TransUNet
+
+## 5. Pretrain Model
+- TransUNet pretrain (base offical)
+    * [Get models in this link](https://console.cloud.google.com/storage/vit_models/):   R50-ViT-B_16, ViT-B_16, ViT-L_16...
+
+- SwinUNet pretrain (base offical)
+    * [Get pre-trained model in this link](https://drive.google.com/drive/folders/1UC3XOoezeum0uck4KBVGa8osahs6rKUY?usp=sharing)
