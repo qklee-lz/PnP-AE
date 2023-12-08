@@ -1,6 +1,6 @@
 # PnP-AE
 The codes for the work "PnP-AE: A Plug-and-Play Module for Volumetric Medical Image Segmentation"
-- have been accepted at **BIBM 2023**.
+- have been accepted at **BIBM 2023**, but not yet online.
 - Framework
     - ![](./figures/framework.png)
 
