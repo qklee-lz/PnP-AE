@@ -1,6 +1,6 @@
 # PnP-AE
 The codes for the work "PnP-AE: A Plug-and-Play Module for Volumetric Medical Image Segmentation"
-- have been accepted at **BIBM 2023**, but not yet online.
+- have been accepted at **BIBM 2023**.
 - Framework
     - ![](./figures/framework.png)
 
@@ -67,3 +67,17 @@ The codes for the work "PnP-AE: A Plug-and-Play Module for Volumetric Medical Im
 
 - SwinUNet pretrain (base offical)
     * [Get pre-trained model in this link](https://drive.google.com/drive/folders/1UC3XOoezeum0uck4KBVGa8osahs6rKUY?usp=sharing)
+
+## 6. Citation
+```
+@INPROCEEDINGS{10385472,
+  author={Li, Qiankun and Huang, Xiaolong and Fang, Bo and Zhang, Yani and Chen, Yongyong and Chen, Junxin},
+  booktitle={2023 IEEE International Conference on Bioinformatics and Biomedicine (BIBM)}, 
+  title={PnP-AE: A Plug-and-Play Module for Volumetric Medical Image Segmentation}, 
+  year={2023},
+  volume={},
+  number={},
+  pages={2059-2064},
+  keywords={Image segmentation;Three-dimensional displays;Correlation;Source coding;Feature extraction;Clinical diagnosis;Bioinformatics;Medical image segmentation;Plug-and-play;Adjacent information exploration;Feature fusion},
+  doi={10.1109/BIBM58861.2023.10385472}}
+```
